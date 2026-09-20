@@ -1,6 +1,16 @@
 # OSOSG0920
+
 workshop for demonstration purposes
 
-demonstrate pulling 
+demonstrate pulling
 
-ahead another line 
+ahead another line
+
+
+
+whats up caroline
+
+
+
+
+
